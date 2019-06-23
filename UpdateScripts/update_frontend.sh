@@ -10,6 +10,7 @@ echo "Removing old image..."
 sudo docker rmi frontend
 
 cd /brAPI_IPGPAS/frontend
+rm -f package-lock.json
 
 echo "Pulling update..."
 git pull
