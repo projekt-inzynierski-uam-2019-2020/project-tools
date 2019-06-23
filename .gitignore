@@ -1,0 +1,4 @@
+Terraform/.terraform/
+Terraform/service-account.json
+Terraform/terraform.tfstate
+Terraform/terraform.tfstate.backup
